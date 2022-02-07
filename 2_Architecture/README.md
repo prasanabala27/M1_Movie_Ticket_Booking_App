@@ -1,3 +1,5 @@
+# Architecture
+
 * Structural
 * Behavioural
    * Flowcharts
