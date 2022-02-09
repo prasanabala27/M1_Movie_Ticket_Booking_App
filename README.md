@@ -1,2 +1,2 @@
-# M1_ProjectGoal_game
+# M1_Movie_Ticket_Booking_App
 mini project
