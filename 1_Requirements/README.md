@@ -23,17 +23,15 @@
 ## High Level Requirements:
 -- ID | Description | Status (Implemented/Future)
 ----- | ------------|---------------------------
-HLR1| admin can add items | Implemented
-HLR2| User shall place order| Implemented
-HLR3| User shall view items| Implemented
-HLR4| admin can view orders| Implemented
+HLR1| User shall be able to login to the system | Implemented
+HLR2| User shall be able to purchase a ticketr| Implemented
 
 
 
 ##  Low level Requirements:
 -- ID | Description | Status (Implemented/Future)
 ----- | ------------|---------------------------
-LLR1| admin can add records  | Implemented
-LLR2| admin can search records | Implemented
+LLR1| admin can add details  | Implemented
+
  
 
