@@ -1,6 +1,12 @@
 # Requirements
 ## Introduction
  This system is basically aimed to provide information of the movie and schedule cutomer.The system enables the user to Book tickets,Cancel tickets,View all booking records
+# SWOT ANALYSIS
+## Strength
+
+## Weakness
+
+## Opportunity
  
 ## Features
  * view the records
