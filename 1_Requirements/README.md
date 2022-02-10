@@ -4,7 +4,7 @@
  
 ## Features
  * view the records
- * booking tickes
+ * booking tickets
  * cancel tickets
  
 
