@@ -18,7 +18,11 @@
  The system helps to book the movie tickets in online. 
 ## How
  Implementation is done using C language.
-
+ 
+ # Detail requirements
+ 
+ ## High Level Requirements
+ 
 
  
 
