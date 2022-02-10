@@ -5,6 +5,7 @@
 ## Strength
 
 ## Weakness
+ Internet connection needed.
 
 ## Opportunity
  
