@@ -30,7 +30,8 @@ int n;
         break;
     case 3:
         cancel();
-        break;
+        break;   
+
     default:
         break;
     }
@@ -46,21 +47,35 @@ void booking()
 	printf("\n====================================================================");   
     printf("\n enter your details");
     printf("\n \t\tname:");
-    scanf("%s", s.name);
+    scanf("%s", &s.name);
     printf("\n \t\tphonenumber:");
     scanf("%d", &s.phoneno);
-    printf("\n \t\tNumber of seats 1-100:");
+    printf("\n \t\t Number of seats 1-100:");
     scanf("%d", &s.ticketno);
     printf("\n \t\tTicket price \n");
     printf("\n \t\t 1.RS-150 \t\t 2.RS-200\n");
-    printf("\t\tEnter your choice");
+    printf("\t\tEnter ticket price:");
         scanf("%d", &s.price);
+         printf("\n\t\t ****** successfully booked ******\n");
+         
 
 
-    printf("\n ****** successfully booked ******");
+
+            printf("\t----------------- TICKET DETAILS----------------\n");
+        printf("\t============================================================\n");
+        printf("\t Booking ID : %d \t\t\t\tShow Name :  Beast \n");
+        printf("\t Customer  : %s\n",s.name);
+        printf("\t                                              NO of tickets:%d \n",s.ticketno);
+        printf("\t                                              Time      : 10:00pm\n");
+        printf("\t                                              Hall      : 01\n");
+        printf("\t                                              price . : %d  \n\n",s.price);
+        printf("\t============================================================\n");    
+
         mainmenu();
 
 }
+ 
+      
 void availability()
 {
     int c;
