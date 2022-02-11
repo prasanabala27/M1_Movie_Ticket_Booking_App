@@ -78,7 +78,7 @@ void cancel()
     int c;
     printf("cancel\n");
     printf("which class you want to cancel");
-    printf("\n1.first class\n2.second class\n3.third class\n");
+    printf("\n1.Beast\n2.valimai\n");
     printf("enter the option");
     scanf("%d", &c);
     switch (c)
