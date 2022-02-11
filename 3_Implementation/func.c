@@ -84,14 +84,12 @@ void cancel()
     switch (c)
     {
     case 1:
-        first++;
+        
         break;
     case 2:
-        second++;
+    
         break;
-    case 3:
-        third++;
-        break;
+    
     default:
         break;
     }
