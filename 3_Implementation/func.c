@@ -18,7 +18,7 @@ int n;
     printf("\n\t\t********** movieticketbooking.com **********");
         printf("\n=======================================================================");
 
-    printf("\t\t\n1.Availability\t\t \n2.Book now\t\t\n3.cancel\n=======================================================================\n\t\tEnter your option:");
+    printf("\t\t\n1.ShowDetails\t\t \n2.Book now\t\t\n3.cancel\n=======================================================================\n\t\tEnter your option:");
     scanf("%d", &n);
     switch (n)
     {
