@@ -23,7 +23,7 @@ int n;
     switch (n)
     {
     case 1:
-        availability();
+        show();
         break;
     case 2:
          booking();     
@@ -37,6 +37,17 @@ int n;
     }
     getch();
 
+}
+void show()
+{
+    int c;
+    printf("\nAvailability cheking\n");
+    printf("\n\t\t***********************************************\n");
+    printf("\t\t 1.Beast-showtime(9.30am-12.30pm-3.30pm-7pm-10pm)\n");
+    printf("\n");
+    printf("\t\t2.Valimai-showtime(10.30am-1.30pm-4.30pm-8pm-11pm)\n");
+    printf("\n\t\t***********************************************");   
+ mainmenu();
 }
 void booking()
 {
@@ -68,7 +79,7 @@ void booking()
         printf("\t                                              NO of tickets:%d \n",s.ticketno);
         printf("\t                                              Time      : 10:00pm\n");
         printf("\t                                              Hall      : 01\n");
-        printf("\t                                              price . : %d  \n\n",s.price);
+        printf("\t                                              price     : %d  \n\n",s.price);
         printf("\t============================================================\n");    
 
         mainmenu();
@@ -76,17 +87,7 @@ void booking()
 }
  
       
-void availability()
-{
-    int c;
-    printf("\nAvailability cheking\n");
-    printf("\n\t\t***********************************************\n");
-    printf("\t\t 1.Beast-showtime(9.30am-12.30pm-3.30pm-7pm-10pm)\n");
-    printf("\n");
-    printf("\t\t2.Valimai-showtime(10.30am-1.30pm-4.30pm-8pm-11pm)\n");
-    printf("\n\t\t***********************************************");   
- mainmenu();
-}
+
   
 void cancel()
 {
