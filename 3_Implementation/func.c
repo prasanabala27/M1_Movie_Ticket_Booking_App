@@ -72,7 +72,7 @@ void booking()
 
 
 
-            printf("\t----------------- TICKET DETAILS----------------\n");
+            printf("\n\t\t----------------- TICKET DETAILS----------------\n");
         printf("\t============================================================\n");
         printf("\t Booking ID : %d \t\t\t\tShow Name :  Beast \n");
         printf("\t Customer  : %s\n",s.name);
