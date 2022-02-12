@@ -41,7 +41,7 @@ int n;
 void show()
 {
     int c;
-    printf("\nAvailability cheking\n");
+    printf("\n Show Details");
     printf("\n\t\t***********************************************\n");
     printf("\t\t 1.Beast-showtime(9.30am-12.30pm-3.30pm-7pm-10pm)\n");
     printf("\n");
