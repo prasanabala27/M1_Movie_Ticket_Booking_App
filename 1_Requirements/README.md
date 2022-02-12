@@ -2,15 +2,9 @@
 ## Introduction
  This system is basically aimed to provide information of the movie.The system enables the user to Book tickets,Cancel tickets,View all booking records
 # SWOT ANALYSIS
-## Strength
-
-## Weakness
- Internet connection needed.
-
-## Opportunity
  
 ## Features
- * view the records
+ * view the show details
  * booking tickets
  * cancel tickets
  
