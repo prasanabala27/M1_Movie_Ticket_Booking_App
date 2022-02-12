@@ -21,8 +21,8 @@ Folder             | Description
 | Feature Id | Feature |
 | -----------|---------|
 |F_01| Login to System | |
-|F_02|Select Movie that is Avaliable |
-|F_03| book a Ticket |
+|F_02|View the movie details |
+|F_03| Book a Ticket |
 |F_04| Details of Ticket |
 |F_05| Cancel a Ticket |
 |F_06| Logout |
