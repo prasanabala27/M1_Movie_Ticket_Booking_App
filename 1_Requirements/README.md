@@ -24,8 +24,10 @@
 ## High Level Requirements:
 -- ID | Description | Status (Implemented/Future)
 ----- | ------------|---------------------------
-HLR1| User shall be able to login to the system | Implemented
-HLR2| User shall be able to purchase a ticketr| Implemented
+HLR1| admin can add show details| Implemented
+HLR2| User can book the movie tickets| Implemented
+HLR3| User shall view information of bookrd tickets| Implemented
+
 
 
 
