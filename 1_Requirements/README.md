@@ -8,7 +8,24 @@
  * booking tickets
  * cancel tickets
  
+The main menu which is made up of:
+  * SHOW DETAILS
+   
+  * BOOK A TICKET
+    
+  * CANCEL A TICKET
+
+   * ORDER A SNACK
+   
+   * EXIT
+  ## Opportunity 
+user can view the information of the ticket. 
+   
+ ## Threats
+there are no threats.  
+
 ## 4W's and 1'H
+
 ## Who
  Everyone can use the Movie ticket booking system who want to buy products.
 ## What
@@ -38,6 +55,8 @@ HLR4| User shall view information of booked tickets| Implemented
 -- ID | Description | Status (Implemented/Future)
 ----- | ------------|---------------------------
 LLR1| admin can add details  | Implemented
+LLR2| admin can add snack items  | Implemented
+
 
  
 
