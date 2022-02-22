@@ -10,7 +10,7 @@
 
    * Flowcharts
    
-   ![use case](https://user-images.githubusercontent.com/99003477/153633496-27b46e59-8a52-4797-8432-5298547fad21.png)
+![Flowchart 2](https://user-images.githubusercontent.com/99003477/155082539-a7bd8bdb-0564-4f39-bf80-000b2c38f9ef.png)
 
    
    
@@ -18,4 +18,4 @@
    * Use Case Diagrams
 
 
-![use CASE1](https://user-images.githubusercontent.com/99003477/153634398-3c523fff-4375-4059-b1a7-c38ef99ccc6e.png)
+![use CASE2](https://user-images.githubusercontent.com/99003477/155082967-387127c6-5b91-498d-bd1f-36e401ae92ec.png)
