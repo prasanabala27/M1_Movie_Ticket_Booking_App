@@ -1,13 +1,20 @@
 ## Home Page
+![s1](https://user-images.githubusercontent.com/99003477/155089174-abbe3c0f-b901-43cd-8444-b50e5eba58c2.png)
 
-![Screenshot 2022-02-12 124155](https://user-images.githubusercontent.com/99003477/153701806-c691eafb-d898-43f6-a805-154fac118f09.png)
 
 ## Show details
 
-![Screenshot 2022-02-12 124648](https://user-images.githubusercontent.com/99003477/153701820-3d3cfae4-3822-4b23-be81-97329cfa3f31.png)
+![Screenshot 2022-02-12 124648](https://user-images.githubusercontent.com/99003477/155089394-a78885c0-ee83-4190-85a2-a5ad63fae080.png)
+
+
 
 ## Book a ticket
-![Screenshot 2022-02-12 125041](https://user-images.githubusercontent.com/99003477/153701821-8e6bb2ed-27fb-485e-9e92-08c822f4982d.png)
+![s4](https://user-images.githubusercontent.com/99003477/155089839-0ef95c78-6757-4b72-8956-210483de1e20.png)
+
 
 ## Cancel a ticket
-![Screenshot 2022-02-12 125351](https://user-images.githubusercontent.com/99003477/153701823-b17e1bbe-2acd-41e5-a4bf-eb9d5bdb7c83.png)
+![s2](https://user-images.githubusercontent.com/99003477/155090357-e4affd32-2719-4450-9943-b56ccd18c38c.png)
+
+## Order a snacks(Menu)
+
+![s3](https://user-images.githubusercontent.com/99003477/155090175-24b3c3d5-6cd1-48dc-8101-c78305a30e0f.png)
