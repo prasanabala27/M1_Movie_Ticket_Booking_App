@@ -26,7 +26,10 @@
 ----- | ------------|---------------------------
 HLR1| admin can add show details| Implemented
 HLR2| User can book the movie tickets| Implemented
-HLR3| User shall view information of bookrd tickets| Implemented
+HLR3| User can order a snacks| Implemented
+HLR4| User shall view information of booked tickets| Implemented
+
+
 
 
 
