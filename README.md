@@ -25,6 +25,7 @@ Folder             | Description
 |F_03| Book a Ticket |
 |F_04| Details of Ticket |
 |F_05| Cancel a Ticket |
+|F_05| order a snacks |
 |F_06| Logout |
 
 
