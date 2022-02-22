@@ -97,7 +97,7 @@ void booking()
 
             printf("\n\t\t----------------- TICKET DETAILS----------------\n");
         printf("\t============================================================\n");
-        printf("\t Booking ID :  \t\t\t\tShow Name :%s\n",s.m);
+        printf("\t                    \t\t\t\tShow Name :%s\n",s.m);
         printf("\t Customer  : %s\n",s.name);
         printf("\t                                              NO of tickets:%d \n",s.ticketno);
         printf("\t                                              Time      : 10:00pm\n");
