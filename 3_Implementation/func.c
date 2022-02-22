@@ -1,3 +1,4 @@
+  
 #include<stdio.h>
 #include"func.h"
 int first = 5, second = 5, third = 5;
@@ -8,17 +9,21 @@ struct node
     char name[100];
     char address[100];
     int price;
+    char m[100];
+    
 } s;
-void mainmenu(){
+void mainmenu()
+{
 
 int n;
+   do{
     printf("\n");
         printf("\n=======================================================================");
 
     printf("\n\t\t********** movieticketbooking.com **********");
         printf("\n=======================================================================");
 
-    printf("\t\t\n1.ShowDetails\t\t \n2.Book now\t\t\n3.cancel\n=======================================================================\n\t\tEnter your option:");
+    printf("\t\t\n1.ShowDetails\t\t \n2.Book now\t\t\n3.cancel the tickets\t\t\n4.order snacks\n0.exit\n=======================================================================\n\t\tEnter your option:");
     scanf("%d", &n);
     switch (n)
     {
@@ -30,14 +35,27 @@ int n;
         break;
     case 3:
         cancel();
-        break;   
+        break; 
+    case 4:
+        snk();
+        break;
+
+            case 0:
+    		exit(0);
+    		break;
+  
 
     default:
         break;
     }
     getch();
 
+
+}while(n!=0);
+
+
 }
+
 void show()
 {
     int c;
@@ -51,6 +69,8 @@ void show()
 }
 void booking()
 {
+
+     
     printf("\n====================================================================");
 	printf("\n");	
 	printf("\t\t *****Moive Ticket booking***** ");
@@ -63,6 +83,9 @@ void booking()
     scanf("%d", &s.phoneno);
     printf("\n \t\t Number of seats 1-100:");
     scanf("%d", &s.ticketno);
+    printf("\n \t\t select movie 1.Beast\t\t 2.valimai");
+    printf("\t\tEnter the movie name:");
+    scanf("%s", &s.m);
     printf("\n \t\tTicket price \n");
     printf("\n \t\t 1.RS-150 \t\t 2.RS-200\n");
     printf("\t\tEnter ticket price:");
@@ -74,7 +97,7 @@ void booking()
 
             printf("\n\t\t----------------- TICKET DETAILS----------------\n");
         printf("\t============================================================\n");
-        printf("\t Booking ID : %d \t\t\t\tShow Name :  Beast \n");
+        printf("\t Booking ID :  \t\t\t\tShow Name :%s\n",s.m);
         printf("\t Customer  : %s\n",s.name);
         printf("\t                                              NO of tickets:%d \n",s.ticketno);
         printf("\t                                              Time      : 10:00pm\n");
@@ -110,6 +133,33 @@ void cancel()
         break;
     }
     printf("ticket is canceled");
+        mainmenu();
+
+}
+void snk()
+{
+    int c;
+printf("MENU\n1.icecream(vanila)-100rs\n2.fries-80rs\n3.popcorn-120rs\n4.pepsi-70rs");
+printf("\nenter the item number");
+scanf("%d", &c);
+    switch (c)
+    {
+    case 1:
+        printf("\t\t***icecream");
+        break;
+    case 2:
+        printf("\t\t***fries");
+        break;
+    case 3:
+        printf("\t\t***popcorn");
+        break;
+    case 4:
+        printf("\t\t***pepsi");
+        break;    
+    default:
+        break;
+    }
+    printf(" is ordered successfully***");
         mainmenu();
 
 }

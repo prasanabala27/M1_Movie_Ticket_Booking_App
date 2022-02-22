@@ -4,5 +4,8 @@ void booking();
 void show();
 void cancel();
 void mainmenu();
+void exit();
+void snk();
+
 
 #endif
