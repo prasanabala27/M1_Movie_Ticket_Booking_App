@@ -1,6 +1,20 @@
+/**
+ * @file Movieticketbooking_operations.h
+ * @author Balaji NS
+ * @brief Header file for Calculator application with Arithmetic operations
+ *
+ */
+
+#ifndef __MOVIETICKETBOOKING_OPERATIONS_H__
+#define __MOVIETICKETBOOKING_OPERATIONS_H__
+
+#include <stdio.h>
+#include <conio.h>
+#include <stdlib.h>
+
+
+
   
-#include<stdio.h>
-#include"func.h"
 struct node
 {
     int ticketno;
@@ -11,6 +25,7 @@ struct node
     char m[100];
     
 } s;
+
 void mainmenu()
 {
 
@@ -162,3 +177,12 @@ scanf("%d", &c);
         mainmenu();
 
 }
+
+
+
+
+
+ 
+
+
+#endif  
