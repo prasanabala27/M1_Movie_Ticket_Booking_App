@@ -1,7 +1,7 @@
 /**
  * @file Movieticketbooking_operations.h
  * @author Balaji NS
- * @brief 
+ * @brief Header file for Movieticketbooking application
  *
  */
 
