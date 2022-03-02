@@ -1,6 +1,8 @@
 # M1_Movie_Ticket_Booking_App
 mini project
 
+
+codeql.yml
 ## code quality score
 
 ![code quality score](https://api.codiga.io/project/31219/score/svg)
