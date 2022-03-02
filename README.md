@@ -4,6 +4,8 @@ mini project
 
 [![CI](https://github.com/prasanabala27/M1_Movie_Ticket_Booking_App/actions/workflows/built.yml/badge.svg)](https://github.com/prasanabala27/M1_Movie_Ticket_Booking_App/actions/workflows/built.yml)
 
+[![Valgrind](https://github.com/prasanabala27/M1_Movie_Ticket_Booking_App/actions/workflows/codequality.yml/badge.svg)](https://github.com/prasanabala27/M1_Movie_Ticket_Booking_App/actions/workflows/codequality.yml)
+
 ## code quality score
 
 ![code quality score](https://api.codiga.io/project/31219/score/svg)
