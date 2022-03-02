@@ -2,7 +2,9 @@
 mini project
 
 
-[![CI](https://github.com/prasanabala27/M1_Movie_Ticket_Booking_App/actions/workflows/bulit.yml/badge.svg)](https://github.com/prasanabala27/M1_Movie_Ticket_Booking_App/actions/workflows/bulit.yml)## code quality score
+[![CI](https://github.com/prasanabala27/M1_Movie_Ticket_Booking_App/actions/workflows/bulit.yml/badge.svg)](https://github.com/prasanabala27/M1_Movie_Ticket_Booking_App/actions/workflows/bulit.yml)
+
+## code quality score
 
 ![code quality score](https://api.codiga.io/project/31219/score/svg)
 
