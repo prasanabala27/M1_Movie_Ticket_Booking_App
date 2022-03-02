@@ -2,7 +2,7 @@
 mini project
 
 
-[![CI](https://github.com/prasanabala27/M1_Movie_Ticket_Booking_App/actions/workflows/bulit.yml/badge.svg)](https://github.com/prasanabala27/M1_Movie_Ticket_Booking_App/actions/workflows/bulit.yml)
+[![CI](https://github.com/prasanabala27/M1_Movie_Ticket_Booking_App/actions/workflows/built.yml/badge.svg)](https://github.com/prasanabala27/M1_Movie_Ticket_Booking_App/actions/workflows/built.yml)
 
 ## code quality score
 
