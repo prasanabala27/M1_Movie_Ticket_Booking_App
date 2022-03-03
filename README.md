@@ -19,10 +19,9 @@ mini project
 ## Unit test
 [![UnitTesting](https://github.com/prasanabala27/M1_Movie_Ticket_Booking_App/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/prasanabala27/M1_Movie_Ticket_Booking_App/actions/workflows/c-cpp.yml)
 
+## Cppcheck
+[![cpp](https://github.com/prasanabala27/M1_Movie_Ticket_Booking_App/actions/workflows/c-cpp2.yml/badge.svg)](https://github.com/prasanabala27/M1_Movie_Ticket_Booking_App/actions/workflows/c-cpp2.yml)
 
-[![CI](https://github.com/prasanabala27/M1_Movie_Ticket_Booking_App/actions/workflows/built.yml/badge.svg)](https://github.com/prasanabala27/M1_Movie_Ticket_Booking_App/actions/workflows/built.yml)
-
-[![Valgrind](https://github.com/prasanabala27/M1_Movie_Ticket_Booking_App/actions/workflows/codequality.yml/badge.svg)](https://github.com/prasanabala27/M1_Movie_Ticket_Booking_App/actions/workflows/codequality.yml)
 ## Folder Structure
 Folder             | Description
 -------------------| -----------------------------------------
