@@ -12,6 +12,10 @@ mini project
 
 ![quality grade](https://api.codiga.io/project/31219/status/svg)
 
+## Codacy 
+
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/2a0c903ed9404a099841687c19519676)](https://www.codacy.com/gh/prasanabala27/M1_Movie_Ticket_Booking_App/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=prasanabala27/M1_Movie_Ticket_Booking_App&amp;utm_campaign=Badge_Grade)
+
 
 [![CI](https://github.com/prasanabala27/M1_Movie_Ticket_Booking_App/actions/workflows/built.yml/badge.svg)](https://github.com/prasanabala27/M1_Movie_Ticket_Booking_App/actions/workflows/built.yml)
 
