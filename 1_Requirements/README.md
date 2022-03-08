@@ -27,7 +27,7 @@ there are no threats.
 ## 4W's and 1'H
 
 ## Who
- Everyone can use the Movie ticket booking system who want to buy products.
+ Everyone can use the Movie ticket booking system.
 ## What
  Made for book the ticket and cancel the ticket.
 ## Where
